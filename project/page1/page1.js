@@ -15,6 +15,6 @@ newParagraph.addEventListener('click',function(event){
 
 
 })
-hihihihiihi
+
 
 
