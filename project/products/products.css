@@ -1,0 +1,30 @@
+
+#navbar {background-color: darkcyan;
+
+}
+
+.list{list-style-type: none;
+    display: flex;
+    
+}
+
+.list > li{padding:10px;
+}
+
+#header {height: 400px;
+background-color: #FF0000;
+display: flex;
+justify-content: center;
+align-items:center;
+}
+
+#header > h1{
+    color: white; 
+}
+
+p{width: 300px;
+    margin: 30px 0;}
+
+.specialText{color: violet}
+
+#first-row {font-size:30px;}
